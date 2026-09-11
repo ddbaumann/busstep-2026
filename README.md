@@ -4,9 +4,9 @@ This page contains material supporting my lectures at [*BUSSTEP 2026*](https://i
 ## Outline
 1. Motivation: Cosmological Correlations
 2. Inflation and Initial Conditions
-3. Correlators
-4. Wavefunction
-5. Bootstrap
+3. In-In Formalism
+4. Wavefunction Approach
+5. Cosmological Bootstrap
 6. Outlook
 ## Lecture Material
 - [Lecture Script](LesHouches-Script.pdf)
