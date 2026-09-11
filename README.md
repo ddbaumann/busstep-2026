@@ -13,6 +13,7 @@ This page contains material supporting my lectures at [*BUSSTEP 2026*](https://i
 ## Problem Set
 - To be added
 ## References
+- Baumann [*Cosmology*]
 - Baumann and Joyce, [*Quantum Fields and Cosmology*]
 - Baumann et al, [*Snowmass White Paper: Cosmological Bootstrap*](https://arxiv.org/abs/2203.08121)
 - Benincasa, [*Amplitudes Meet Cosmology*](https://arxiv.org/abs/2203.15330)
