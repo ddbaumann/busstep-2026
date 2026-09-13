@@ -11,8 +11,8 @@ This page contains material supporting my lectures at [*BUSSTEP 2026*](https://i
 ## Lecture Material
 - [Lecture Script](BUSSTEP-Script.pdf)
 ## Problem Set
-- [*Tutorial Problems*](Problems.pdf)
-- [*Extra Problems*](Extra-Problems.pdf)
+- [Tutorial Problems](Problems.pdf)
+- [Extra Problems](Extra-Problems.pdf)
 ## References
 - Baumann [*Cosmology*]
 - Baumann and Joyce, [*Quantum Fields and Cosmology*]
