@@ -9,9 +9,10 @@ This page contains material supporting my lectures at [*BUSSTEP 2026*](https://i
 5. Cosmological Bootstrap
 6. Outlook
 ## Lecture Material
-- [Lecture Script](LesHouches-Script.pdf)
+- [Lecture Script](BUSSTEP-Script.pdf)
 ## Problem Set
-- To be added
+- [*Tutorial Problems*](Problems.pdf)
+- [*Extra Problems*](Extra-Problems.pdf)
 ## References
 - Baumann [*Cosmology*]
 - Baumann and Joyce, [*Quantum Fields and Cosmology*]
